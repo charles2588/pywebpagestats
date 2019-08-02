@@ -137,7 +137,6 @@ def getstats(url):
      # images = soup.findAll('img')
     # videos = soup.findAll('video')
     # divs = soup.findAll('div')
-    # print(soup.contents)
     # print("Number Of Images :- " + str(len(images)))
     # print("Number Of Videos :- " + str(len(videos)))
     # print("Number Of Divs :- " + str(len(divs)))
